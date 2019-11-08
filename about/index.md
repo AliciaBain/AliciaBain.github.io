@@ -9,7 +9,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
 ---
 
-Hello, my name is **Dunieski Otano** and I am originally from Cuba. I studied **English Language and Literature** in the University of Havana, Cuba and graduated in 2002. 
+Hello, my name is **Alicia Bain** and I was born and raised in Haiti. In 2015, I moved to the United States where I finshed my secondary education in 2018 and started my IT path soon after.
 
 In 2011 I finished my **Master's Degree in Curriculum & Instruction with concentration in ESOL** in Concordia University- Portland, OR. A few years later, I decided to change my career path and went for a **Bachelor's Degree in Software Engineering** from Keiser University and graduated in 2017. 
 
