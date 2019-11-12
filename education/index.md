@@ -14,26 +14,14 @@ image:
 <hr/>
 
 
-  
-**Nova Southeastern University (2020 - )**
-   
-   * Master's Degree in Computer Science
- 
-**Revature (January 2019 - May 2019)**
-   * Full Stack Web Developer, Computer Science [Boot Camp]
- 
-**Keiser University (August 2017 - October 2017)**
-   * Bachelor's Degree in Software Engineering
- 
-**Miami Dade College (2013)**
-   * Algebra
-   * Mathematical Statistics & Probabilities
-   
 **Miami Dade College, Miami FL (September 2019 - November 2019)**
    * AWS Cloud Suppport Engineer certificate
-  
+ 
 **Miami Dade College, Miami FL (August 2018 - November 2018)**
    * Electronic Health Record Specialist certificate
+
+ 
+
 
 
 [^1]: Example: *domain.com/category-name/post-title*
