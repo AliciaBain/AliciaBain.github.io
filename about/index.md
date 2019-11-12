@@ -15,7 +15,7 @@ In 2018 I obtained my **Electronic Health Record Specialist Certification** in M
 
 Since my graduation as a software engineer, I have been developing software, creating websites, full stack applications, and getting expertise in AWS services. I recently got the following AWS certifications: [**AWS Certified SysOps Administrator Associate**](https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2019-09-10&ci=AWS00993439), and [**AWS Certified Solutions Architect Associate**](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-10-17&ci=AWS00993439).
 
-Soon I will be getting my Cloud Support Engineer AWS certification and by the first quarter of 2020 I am planning to obtain my Solutions Architect Certification.
+Soon I will be getting my **Cloud Support Engineer AWS certification** and by the first quarter of 2020 I am planning to obtain my **Solutions Architect Certification**.
 
 <a markdown="0" href="https://www.linkedin.com/in/alicia-bain-365146175/" class="btn">More on Alicia</a>
 
