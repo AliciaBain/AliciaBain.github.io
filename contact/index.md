@@ -16,7 +16,5 @@ image:
 
 
 **-Phone Number:** (786) 372-0475‬
-
 **-Email Address:** <a href="mailto:aliciabain2610@gmail.com">Click here</a>
-
 **-LinkedIn:** [https://www.linkedin.com/in/alicia-bain-365146175/](https://www.linkedin.com/in/alicia-bain-365146175/)
